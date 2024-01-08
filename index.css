@@ -1,0 +1,16 @@
+body{
+    background-color: darkseagreen;
+}
+button{
+    background-color:hotpink;
+    height: 35px;
+    width: 35px;
+    border-radius: 20%;
+    border: 2px solid indianred;
+    color:goldenrod;
+}
+#result{
+    background-color: rgb(205, 235, 243);
+    border-radius: 10%;
+    height: 35px;
+}
